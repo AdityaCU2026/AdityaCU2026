@@ -45,18 +45,17 @@ const aditya = {
   
   | Platform | Rating | Problems Solved | Rank |
   |----------|--------|-----------------|------|
-  | 🟡 **LeetCode** | 1650+ | 300+ | Top 15% |
-  | 🔵 **Codeforces** | 1400+ | 200+ | Specialist |
-  | 🟠 **CodeChef** | 1800+ | 150+ | 4⭐ |
-  | 🟢 **HackerRank** | 5⭐ | 100+ | Gold Badge |
+  | 🟡 **LeetCode** | 2027+ | 550+ | Top 2% |
+  | 🔵 **Codeforces** | 1460+ | 970+ | Specialist |
+  | 🟠 **CodeChef** | 1676+ | 150+ | 3⭐ |
   
 </div>
 
 ### 🎯 Recent Achievements
-- 🏅 **LeetCode Weekly Contest**: Top 10% finish
+- 🏅 **LeetCode Weekly Contest**: Top 300 finish
 - 🏆 **CodeChef Long Challenge**: 3-star rating achieved
 - 🎖️ **Codeforces Round**: Specialist rank maintained
-- 📈 **Problem Solving Streak**: 100+ days active
+- 📈 **Problem Solving Streak**: 550+ days active
 
 ---
 
@@ -68,8 +67,6 @@ const aditya = {
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
 </div>
 
@@ -162,41 +159,6 @@ const aditya = {
 
 ---
 
-## 📚 Problem Solving Journey
-
-<div align="center">
-  
-  ### 🎯 Focus Areas
-  
-  | Topic | Problems Solved | Difficulty Level |
-  |-------|-----------------|------------------|
-  | **Arrays & Strings** | 80+ | Easy to Hard |
-  | **Dynamic Programming** | 60+ | Medium to Hard |
-  | **Trees & Graphs** | 70+ | Medium to Hard |
-  | **Greedy Algorithms** | 40+ | Easy to Medium |
-  | **Binary Search** | 35+ | Easy to Hard |
-  | **Backtracking** | 25+ | Medium to Hard |
-  
-</div>
-
-### 📖 Learning Resources I Recommend
-- 📚 **Books:** "Cracking the Coding Interview", "Elements of Programming Interviews"
-- 🎥 **Channels:** Abdul Bari, Striver, CodeWithHarry
-- 🌐 **Platforms:** LeetCode, Codeforces, CodeChef, GeeksforGeeks
-- 📝 **Practice:** Daily problem solving, Contest participation
-
----
-
-## 🎯 Current Goals
-
-- [ ] 🏆 Reach **Expert** rating on Codeforces
-- [ ] 📈 Solve **500+ problems** on LeetCode
-- [ ] 🚀 Build **5 full-stack projects**
-- [ ] 📚 Master **System Design** concepts
-- [ ] 🤝 Contribute to **Open Source** projects
-- [ ] 📝 Start **Technical Blogging**
-
----
 
 ## 📊 Weekly Development Breakdown
 
@@ -216,9 +178,7 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
   
   💼 **Open for opportunities in Software Development and Competitive Programming**
   
-  📧 **Email:** aditya.pratap.singh@example.com
-  
-  🌐 **Portfolio:** [adityapratapsingh.dev](https://your-portfolio.com)
+  📧 **Email:** adityacu2026@gmail.com
   
   ---
   
