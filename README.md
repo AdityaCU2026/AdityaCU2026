@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapratapsingh844115/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/carpediem_18/)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-profile)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adityapratap28)
   [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Adityapratap07)
   
 </div>
@@ -21,17 +21,17 @@
 const aditya = {
     role: "Competitive Programmer & Full Stack Developer",
     location: "India",
-    education: "Computer Science Student",
-    currentFocus: ["Data Structures & Algorithms", "Web Development", "System Design"],
-    languages: ["JavaScript", "Python", "C++", "Java"],
+    education: "Information Technology",
+    currentFocus: ["Machine Learning",  "System Design"],
+    languages: ["JavaScript", "Python", "C++",],
     hobbies: ["Solving Problems", "Building Projects", "Learning New Tech"]
 };
 ```
 
-- 🔥 **Competitive Programming Enthusiast** with 500+ problems solved
+- 🔥 **Competitive Programming Enthusiast** with 1600+ problems solved
 - 💻 **Full Stack Developer** specializing in MERN stack
 - 🎯 **Problem Solver** who loves algorithmic challenges
-- 🌱 Currently learning **Advanced Data Structures** and **System Design**
+- 🌱 Currently learning **Machine Learning** and **System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Algorithms, Web Development, or Competitive Programming**
 
