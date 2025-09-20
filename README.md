@@ -136,6 +136,18 @@ const aditya = {
 
 ---
 
+
+### 🤖 [Virtual Assistant](https://github.com/AdityaCU2026/VirtualAssistant)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://virtualassistant-frontend-aoj5.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/AdityaCU2026/VirtualAssistant)
+
+**AI-Powered Personal Assistant Platform with Google Gemini Integration**
+- 🛠️ **Tech Stack:** React, Node.js, MongoDB, Google Gemini API, Cloudinary
+- ✨ **Features:** AI Conversations, Custom Assistant, Image Upload, Real-time Chat
+- 🚀 **Deployed:** Render (Frontend & Backend)
+
+---
+
 ### 🧮 [Algorithm Visualizer](https://github.com/AdityaCU2026/algorithm-visualizer)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](#)
