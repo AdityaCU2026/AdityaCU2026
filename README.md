@@ -110,6 +110,8 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 
 ### 🚀 My Featured Projects
 
+### 🚀 My Featured Projects
+
 <table>
 
 <tr>
