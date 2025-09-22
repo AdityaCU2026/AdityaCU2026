@@ -131,11 +131,6 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
     <a href="https://github.com/AdityaCU2026/URL_SHORTNER">📖 View Code</a>
   </div>
 </td>
-<td width="50%">
-  <a href="https://url-shortner-frontend-71p3.onrender.com">
-    <img src="https://i.imgur.com/Gf8sNyy.gif" alt="URL Shortener Demo"/>
-  </a>
-</td>
 </tr>
 
 <tr>
@@ -156,11 +151,6 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/AdityaCU2026/VirtualAssistant">📖 View Code</a>
   </div>
-</td>
-<td width="50%">
-  <a href="https://virtualassistant-frontend-aoj5.onrender.com">
-    <img src="https://i.imgur.com/V760s38.gif" alt="Virtual Assistant Demo"/>
-  </a>
 </td>
 </tr>
 
