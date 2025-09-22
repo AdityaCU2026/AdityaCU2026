@@ -93,7 +93,7 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="24" alt="LeetCode"/> **LeetCode** | [carpediem_18](https://leetcode.com/u/carpediem_18/) | **2027+** | `Knight` | **550+** |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" width="24" alt="Codeforces"/> **Codeforces** | [Adityapratap07](https://codeforces.com/profile/Adityapratap07) | **1460+** | `Specialist` | **970+** |
-|<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> width="24" alt="CodeChef"/> **CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1676+** | `3-Star` | **150+** |
+|<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>**CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1676+** | `3-Star` | **150+** |
 
 ---
 
