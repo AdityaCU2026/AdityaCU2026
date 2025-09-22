@@ -133,7 +133,7 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 </td>
 <td width="50%">
   <a href="https://url-shortner-frontend-71p3.onrender.com">
-    <img src="https://i.imgur.com/Gf8sNyy.gif" alt="URL Shortener Demo"/>
+    <img src="Screenshot_2025-09-21_at_10.21.18_AM_no5rkx" alt="URL Shortener Demo"/>
   </a>
 </td>
 </tr>
