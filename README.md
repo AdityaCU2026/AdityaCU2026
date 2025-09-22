@@ -92,8 +92,8 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 | Platform | Profile | Rating | Rank | Problems Solved |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="24" alt="LeetCode"/> **LeetCode** | [carpediem_18](https://leetcode.com/u/carpediem_18/) | **2027+** | `Knight` | **550+** |
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944874.png" width="24" alt="Codeforces"/> **Codeforces** | [Adityapratap07](https://codeforces.com/profile/Adityapratap07) | **1460+** | `Specialist` | **970+** |
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521351-2944873.png" width="24" alt="CodeChef"/> **CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1676+** | `3-Star` | **150+** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" width="24" alt="Codeforces"/> **Codeforces** | [Adityapratap07](https://codeforces.com/profile/Adityapratap07) | **1460+** | `Specialist` | **970+** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/CodeChef_Logo.svg" width="24" alt="CodeChef"/> **CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1676+** | `3-Star` | **150+** |
 
 ---
 
@@ -113,11 +113,19 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 <table>
 
 <tr>
-<td width="50%">
+<td valign="top">
   <h3 align="center">🔗 URL Shortener</h3>
   <br />
   <p>A full-stack URL shortening service with robust features like user authentication, custom URL generation, and click analytics. Built with performance and scalability in mind.</p>
-  <br />
+  <br>
+  <p align="left">
+    <b>✨ Key Features:</b>
+    <ul>
+      <li>🔐 User Authentication with JWT</li>
+      <li>✏️ Custom URL Generation & Shortening</li>
+      <li>📊 Analytics Dashboard to Track Clicks</li>
+    </ul>
+  </p>
   <strong>Tech Used:</strong>
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -125,20 +133,32 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
   </div>
-  <div align="center" style="margin-top: 10px;">
+  <div align="center" style="margin-top: 15px;">
     <a href="https://url-shortner-frontend-71p3.onrender.com">🚀 Live Demo</a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/AdityaCU2026/URL_SHORTNER">📖 View Code</a>
   </div>
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td valign="top">
+  <hr/>
+</td>
+</tr>
+<tr>
+<td valign="top">
   <h3 align="center">🤖 Virtual AI Assistant</h3>
   <br />
-  <p>An intelligent personal assistant powered by the Google Gemini API. Users can have real-time conversations, get answers, and even upload images for analysis, all within a sleek, modern chat interface.</p>
-  <br />
+  <p>An intelligent personal assistant powered by the Google Gemini API. Users can have real-time conversations, get answers, and even upload images for analysis in a sleek, modern chat interface.</p>
+  <br>
+  <p align="left">
+    <b>✨ Key Features:</b>
+    <ul>
+      <li>💬 Real-time AI Conversations</li>
+      <li>🖼️ Image Upload and Analysis</li>
+      <li>🎨 Sleek, Modern User Interface</li>
+    </ul>
+  </p>
   <strong>Tech Used:</strong>
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -146,7 +166,7 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
     <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge" alt="Gemini API"/>
     <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
   </div>
-  <div align="center" style="margin-top: 10px;">
+  <div align="center" style="margin-top: 15px;">
     <a href="https://virtualassistant-frontend-aoj5.onrender.com">🚀 Live Demo</a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/AdityaCU2026/VirtualAssistant">📖 View Code</a>
