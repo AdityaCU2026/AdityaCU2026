@@ -91,9 +91,9 @@ I am a final-year Information Technology student, a passionate **Competitive Pro
 
 | Platform | Profile | Rating | Rank | Problems Solved |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="24" alt="LeetCode"/> **LeetCode** | [carpediem_18](https://leetcode.com/u/carpediem_18/) | **2027+** | `Knight` | **550+** |
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944874.png" width="24" alt="Codeforces"/> **Codeforces** | [Adityapratap07](https://codeforces.com/profile/Adityapratap07) | **1460+** | `Specialist` | **970+** |
-| <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521351-2944873.png" width="24" alt="CodeChef"/> **CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1676+** | `3-Star` | **150+** |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="24" alt="LeetCode"/> **LeetCode** | [carpediem_18](https://leetcode.com/u/carpediem_18/) | **2027+** | `Knight` | **600+** |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944874.png" width="24" alt="Codeforces"/> **Codeforces** | [Adityapratap07](https://codeforces.com/profile/Adityapratap07) | **1460+** | `Specialist` | **1000+** |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521351-2944873.png" width="24" alt="CodeChef"/> **CodeChef** | [adityapratap28](https://www.codechef.com/users/adityapratap28) | **1709+** | `3-Star` | **150+** |
 
 ---
 
